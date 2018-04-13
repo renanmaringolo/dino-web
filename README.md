@@ -1,24 +1,4 @@
-# README
+--------- README.md -------------
+### Dino - Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is a web application for learning purpose which can connect to various banks, allow users to login, make withdrawals, deposits and payments.
